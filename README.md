@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajgarimella
+- 👋 Hi, I’m @rajgarimella. I'm a sophmore at UC Davis.
 - 👀 I’m interested in pursuing quant finacne as a career
 - 🌱 I’m currently using React Native to build a mobile app.
 - 💞️ I’m looking to collaborate on projects that will be useful in day-to-day life.
