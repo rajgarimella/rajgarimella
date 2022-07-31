@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajgarimella
 - 👀 I’m interested in pursuing quant finacne as a career
-- 🌱 I’m currently learning Data Structues at UC Davis.
+- 🌱 I’m currently using React Native to build a mobile app.
 - 💞️ I’m looking to collaborate on projects that will be useful in day-to-day life.
 - 📫 How to reach me: email: rajgarimella@ucdavis.edu
 
