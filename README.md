@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rajgarimella. I'm a sophmore at UC Davis and mobile dev.
-- 👀 I’m interested in pursuing quant finacne as a career
-- 🌱 I’m currently using React Native to build a mobile app.
+- 👋 Hi, I’m @rajgarimella. I'm a a student a UC davis with a major in computer science and a minor and stats.
+- 👀 I’m interested in pursuing software engineering as a career
 - 💞️ I’m looking to collaborate on projects that will be useful in day-to-day life.
 - 📫 How to reach me: email: rajgarimella@ucdavis.edu
 
